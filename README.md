@@ -28,6 +28,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 ![Screenshot_20230526-213613](https://github.com/daniisaahir/DinoDDoS/assets/131199603/40413a41-ac3a-43eb-bd6a-005864013dfd)
-![Screenshot_20230526-213604](https://github.com/daniisaahir/DinoDDoS/assets/131199603/9bee9181-5ae7-4615-9cdf-7e6e3827dbff)
+
 ![Screenshot_20230526-213547](https://github.com/daniisaahir/DinoDDoS/assets/131199603/64a6d87d-66be-4185-a783-657bbfc2c3df)
 
+![Screenshot_20230526-213604](https://github.com/daniisaahir/DinoDDoS/assets/131199603/2eee3b96-04b6-46cf-b317-2b67af3debcc)
