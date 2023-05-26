@@ -16,6 +16,9 @@ Before running DinoDDoS, ensure the following prerequisites are met:
 
 - Python 3.x is installed.
 
+## Usage
+`python dinoddos.py`
+
 **Disclaimer:**
 Please note that the use of DinoDDoS or any similar tool for launching attacks without proper authorization is illegal and unethical. The purpose of this tool is purely educational, and it should be used responsibly and within legal boundaries. The author of DinoDDoS and the contributors to this project are not responsible for any misuse, damage, or consequences caused by the use of this tool.
 
